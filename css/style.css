@@ -442,7 +442,7 @@ line-height: 30px;
 font-style: italic;
 } 
 section.hero-text {
-	background: #A71F4A;
+	background: #1619ca;
 	padding:30px 0 0 0;
 	border-top: 4px solid #fff;
 }
@@ -812,7 +812,8 @@ ul.portfolio-categ li a{
 	color:#353535;
 }
 ul.portfolio-categ li.active{
-border: 1px solid #A71F4A;
+
+border: 1px solid #A71F4A;
 }
 ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.portfolio-categ li a:focus,ul.portfolio-categ li a:active {
 	text-decoration:none;
